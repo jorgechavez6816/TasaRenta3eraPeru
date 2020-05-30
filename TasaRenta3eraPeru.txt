@@ -1,0 +1,9 @@
+Function TasaRenta3eraPeru(date1 As Date) As Double
+	If Year(date1) >= 2017 Then
+		tasarenta3eraperu = 0.295
+	ElseIf Year(date1) < 2017 And Year(date1) >= 2015 Then
+		tasarenta3eraperu = 0.280
+	Else		
+		tasarenta3eraperu = 0.300
+	End If
+End Function
