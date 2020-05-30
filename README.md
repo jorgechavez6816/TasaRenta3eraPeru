@@ -8,4 +8,4 @@ Mediante Script en VBA se crea como función personalizada en IDEA.
 
 •	Texto de ayuda: Para obtener la tasa del impuesto a la renta vigente, según la fecha consultada. La función se aplica sobre un campo fecha. El tipo de salida será un campo numérico. 
 
-Ejemplo: # TasaRenta3eraPeru(“20160807”) Salida: 0.28. (Se aplica desde ejercicio 2004)
+Ejemplo: # TasaRenta3eraPeru(“20160807”) Salida: 0.28. (Se aplica desde ejercicio 2004 al 2019)
