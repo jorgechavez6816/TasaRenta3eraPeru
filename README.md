@@ -1,6 +1,6 @@
 # TasaRenta3eraPeru
 Función personalizada en Caseware IDEA para aplicar la tasa del Impuesto a la Renta de tercera categoría en el Perú.
-Mediante Script en VBA se crea como función personalizada en IDEA.
+Mediante Script en VBA se crea como función personalizada en IDEA. El archivo tiene como extensión IDEAFUNC.
 
 •	Nombre: TasaRenta3eraPeru
 
